@@ -3,9 +3,9 @@ package middlewares
 import (
 	"net/http"
 
-	"github.com/dzungtran/echo-rest-api/modules/core/domains"
-	"github.com/dzungtran/echo-rest-api/pkg/constants"
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/zviedris/echo-rest-template/modules/core/domains"
+	"github.com/zviedris/echo-rest-template/pkg/constants"
+	"github.com/zviedris/echo-rest-template/pkg/logger"
 	"github.com/labstack/echo/v4"
 	ory "github.com/ory/kratos-client-go"
 )

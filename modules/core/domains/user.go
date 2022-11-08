@@ -3,8 +3,8 @@ package domains
 import (
 	"time"
 
-	"github.com/dzungtran/echo-rest-api/pkg/cue"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/zviedris/echo-rest-template/pkg/cue"
+	"github.com/zviedris/echo-rest-template/pkg/utils"
 )
 
 type UserStatus string
